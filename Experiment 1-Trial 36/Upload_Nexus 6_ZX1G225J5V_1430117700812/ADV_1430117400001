@@ -1,0 +1,2 @@
+Experiment_ID, Trial_ID, Position_ID, Manufacturer, Model_Number, Serial_Number, Local_Bluetooth_Address, Local_UUID, Adv_Start_Time, Adv_Actual_End_Time, Adv_Length, Adv_Mode, Adv_TxPower, bat_start_charge_counter, bat_start_current_now, bat_start_current_average, bat_start_current_capacity, bat_end_charge_counter, bat_end_current_now, bat_end_current_average, bat_end_current_capacity, 
+36, 1, 7, motorola, Nexus 6, ZX1G225J5V, 9C:D9:17:49:B9:86, 359320050640191, 1430117400001, 1430117700060, 300000, Low_Power, Ultra_Low, 208974, 0, 0, 100, 208964, -1560, -156, 100, 

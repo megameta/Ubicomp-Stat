@@ -1,0 +1,2 @@
+Experiment_ID, Trial_ID, Position_ID, Manufacturer, Model_Number, Serial_Number, Local_Bluetooth_Address, Local_UUID, Adv_Start_Time, Adv_Actual_End_Time, Adv_Length, Adv_Mode, Adv_TxPower, bat_start_charge_counter, bat_start_current_now, bat_start_current_average, bat_start_current_capacity, bat_end_charge_counter, bat_end_current_now, bat_end_current_average, bat_end_current_capacity, 
+29, 1, 4, motorola, Nexus 6, ZX1G224GBF, 9C:D9:17:49:03:B4, 359320050626513, 1430111760001, 1430112060127, 300000, Low_Latency, High, 115973, -624, 0, 100, 115963, 312, 0, 100, 

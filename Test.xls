@@ -1,0 +1,8 @@
+     Sum Sq                Df            F value              Pr(>F)      
+ Min.   :        8   Min.   :  1.00   Min.   :     0.01   Min.   :0.0000  
+ 1st Qu.:     2118   1st Qu.:  2.00   1st Qu.:     1.11   1st Qu.:0.0000  
+ Median :   100638   Median :  4.00   Median :     1.74   Median :0.1120  
+ Mean   : 35938459   Mean   : 18.94   Mean   : 13553.40   Mean   :0.2624  
+ 3rd Qu.: 33706748   3rd Qu.:  6.00   3rd Qu.:  8162.15   3rd Qu.:0.3287  
+ Max.   :231575140   Max.   :234.00   Max.   :143146.28   Max.   :0.9618  
+                                      NA's   :1           NA's   :1       

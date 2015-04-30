@@ -1,0 +1,22 @@
+Anova Table (Type II tests)
+
+Response: Time_to_Discovery
+                                              Sum Sq  Df    F value Pr(>F)    
+Adv.Latency                                231575140   2 1.4315e+05 <2e-16 ***
+pos                                                8   1 1.0200e-02 0.9197    
+Adv.Power                                   11999157   3 4.9448e+03 <2e-16 ***
+Listener.Latency                             8397517   2 5.1909e+03 <2e-16 ***
+Adv.Latency:pos                                 1415   2 8.7440e-01 0.4185    
+Adv.Latency:Adv.Power                       38580558   6 7.9494e+03 <2e-16 ***
+pos:Adv.Power                                    235   3 9.6700e-02 0.9618    
+Adv.Latency:Listener.Latency                32082145   4 9.9157e+03 <2e-16 ***
+pos:Listener.Latency                            2353   2 1.4543e+00 0.2357    
+Adv.Power:Listener.Latency                  40645446   6 8.3749e+03 <2e-16 ***
+Adv.Latency:pos:Adv.Power                       8457   6 1.7426e+00 0.1120    
+Adv.Latency:pos:Listener.Latency                1098   4 3.3950e-01 0.8512    
+Adv.Latency:Adv.Power:Listener.Latency     211514014  11 2.3772e+04 <2e-16 ***
+pos:Adv.Power:Listener.Latency                  6517   6 1.3429e+00 0.2389    
+Adv.Latency:pos:Adv.Power:Listener.Latency     11999  11 1.3485e+00 0.1988    
+Residuals                                     189277 234                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
