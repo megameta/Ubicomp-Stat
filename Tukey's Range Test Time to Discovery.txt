@@ -1,0 +1,36 @@
+$Adv.Power
+                      diff          lwr        upr     p adj
+Low-High         -508.8377 -1071.168601   53.49312 0.0918907
+Medium-High      -110.0476  -658.504972  438.40973 0.9546454
+Ultra_low-High    107.7321  -512.762004  728.22629 0.9698688
+Medium-Low        398.7901  -142.319847  939.90009 0.2285264
+Ultra_low-Low     616.5699     2.560505 1230.57927 0.0486118
+Ultra_low-Medium  217.7798  -383.549592  819.10912 0.7857009
+
+> lm1 = lm(Time_to_Discovery ~ Adv.Latency, data=prelim_results)
+> TukeyHSD(aov(lm1), na.omit = T)
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = lm1)
+
+$Adv.Latency
+                           diff       lwr       upr     p adj
+Low_Latency-Balanced  1560.2446 1203.7984 1916.6909 0.0000000
+Low_Power-Balanced    2059.3333 1694.5541 2424.1126 0.0000000
+Low_Power-Low_Latency  499.0887  145.5257  852.6517 0.0028503
+
+> lm1 = lm(Time_to_Discovery ~ Listener.Latency, data=prelim_results)
+> TukeyHSD(aov(lm1), na.omit = T)
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = lm1)
+
+$Listener.Latency
+                           diff       lwr       upr     p adj
+Low_Latency-Balanced  -151.0955 -605.5058 303.31480 0.7136559
+Low_Power-Balanced    -426.8111 -876.4983  22.87605 0.0669386
+Low_Power-Low_Latency -275.7156 -735.4691 184.03783 0.3357011
+
+> 

@@ -1,16 +1,16 @@
-Manufacturer, Model_Number, Serial_Number, Adv_Start_Time, Adv_Actual_End_Time, Adv_Length, Adv_Mode, Adv_TxPower, Scan_Start_Time, Scan_Actual_End_Time, Scan_Length, Scan_Mode, bat_discovery_count, bat_start_charge_counter, bat_start_current_now, bat_start_current_average, bat_start_current_capacity, bat_end_charge_counter, bat_end_current_now, bat_end_current_average, bat_end_current_capacity, 
-motorola, Nexus 6, ZX1G222LJL, , , , , , 1430276710636, 1430276770684, 60000, Balanced, 97, 20262, -666120, -161616, 100, 17175, -204360, -184392, 100, 
-motorola, Nexus 6, ZX1G222LJL, , , , , , 1430276770738, 1430276830789, 60000, Low_Latency, 221, 17175, -204360, -184392, 100, 14062, -185328, -190164, 100, 
-motorola, Nexus 6, ZX1G222LJL, , , , , , 1430276830909, 1430276890957, 60000, Low_Power, 41, 14062, -274248, -190164, 100, 11265, -170664, -178152, 100, 
-motorola, Nexus 6, ZX1G222LJL, 1430276891027, 1430276951168, 60000, Balanced, High, , , , , , 11265, -228072, -178152, 100, 8613, -157560, -163176, 100, 
-motorola, Nexus 6, ZX1G222LJL, 1430276951227, 1430277011329, 60000, Balanced, Medium, , , , , , 8605, -157560, -163176, 100, 6039, -144768, -156000, 99, 
-motorola, Nexus 6, ZX1G222LJL, 1430277011479, 1430277071584, 60000, Balanced, Low, , , , , , 6032, -341016, -155844, 99, 3432, -179400, -160524, 99, 
-motorola, Nexus 6, ZX1G222LJL, 1430277071709, 1430277131790, 60000, Balanced, Ultra_Low, , , , , , 3422, -198120, -161148, 99, 859, -126048, -152880, 99, 
-motorola, Nexus 6, ZX1G222LJL, 1430277131918, 1430277192018, 60000, Low_Latency, High, , , , , , 859, -126048, -152880, 99, 32766209, -143520, -161148, 99, 
-motorola, Nexus 6, ZX1G222LJL, 1430277192083, 1430277252207, 60000, Low_Latency, Medium, , , , , , 32766209, -248040, -161148, 99, 32763647, -118560, -155376, 99, 
-motorola, Nexus 6, ZX1G222LJL, 1430277252340, 1430277312433, 60000, Low_Latency, Low, , , , , , 32763638, -165672, -155532, 99, 32761044, -162240, -155532, 99, 
-motorola, Nexus 6, ZX1G222LJL, 1430277312570, 1430277372668, 60000, Low_Latency, Ultra_Low, , , , , , 32761044, -277992, -157404, 99, 32758397, -127920, -164580, 99, 
-motorola, Nexus 6, ZX1G222LJL, 1430277372719, 1430277432830, 60000, Low_Power, High, , , , , , 32758388, -189072, -164892, 99, 32755798, -149760, -153036, 99, 
-motorola, Nexus 6, ZX1G222LJL, 1430277432971, 1430277493070, 60000, Low_Power, Medium, , , , , , 32755791, -149760, -153036, 99, 32753211, -126048, -154128, 99, 
-motorola, Nexus 6, ZX1G222LJL, 1430277493131, 1430277553231, 60000, Low_Power, Low, , , , , , 32753211, -258648, -154128, 99, 32750624, -120432, -153504, 99, 
-motorola, Nexus 6, ZX1G222LJL, 1430277553370, 1430277613467, 60000, Low_Power, Ultra_Low, , , , , , 32750616, -177528, -153816, 99, 32748025, -151320, -153660, 99, 
+ Experiment_ID, Trial_ID,Manufacturer, Model_Number, Serial_Number, Adv_Start_Time, Adv_Actual_End_Time, Adv_Length, Adv_Mode, Adv_TxPower, Scan_Start_Time, Scan_Actual_End_Time, Scan_Length, Scan_Mode, bat_discovery_count, bat_start_charge_counter, bat_start_current_now, bat_start_current_average, bat_start_current_capacity, bat_end_charge_counter, bat_end_current_now, bat_end_current_average, bat_end_current_capacity
+3,1,motorola, Nexus 6, ZX1G222LJL, , , , , ,1.43028E+12,1.43028E+12,60000, Balanced,97,20262,-666120,-161616,100,17175,-204360,-184392,100
+3,1,motorola, Nexus 6, ZX1G222LJL, , , , , ,1.43028E+12,1.43028E+12,60000, Low_Latency,221,17175,-204360,-184392,100,14062,-185328,-190164,100
+3,1,motorola, Nexus 6, ZX1G222LJL, , , , , ,1.43028E+12,1.43028E+12,60000, Low_Power,41,14062,-274248,-190164,100,11265,-170664,-178152,100
+3,1,motorola, Nexus 6, ZX1G222LJL,1.43028E+12,1.43028E+12,60000, Balanced, High, , , , , ,11265,-228072,-178152,100,8613,-157560,-163176,100
+3,1,motorola, Nexus 6, ZX1G222LJL,1.43028E+12,1.43028E+12,60000, Balanced, Medium, , , , , ,8605,-157560,-163176,100,6039,-144768,-156000,99
+3,1,motorola, Nexus 6, ZX1G222LJL,1.43028E+12,1.43028E+12,60000, Balanced, Low, , , , , ,6032,-341016,-155844,99,3432,-179400,-160524,99
+3,1,motorola, Nexus 6, ZX1G222LJL,1.43028E+12,1.43028E+12,60000, Balanced, Ultra_Low, , , , , ,3422,-198120,-161148,99,859,-126048,-152880,99
+3,1,motorola, Nexus 6, ZX1G222LJL,1.43028E+12,1.43028E+12,60000, Low_Latency, High, , , , , ,859,-126048,-152880,99,32766209,-143520,-161148,99
+3,1,motorola, Nexus 6, ZX1G222LJL,1.43028E+12,1.43028E+12,60000, Low_Latency, Medium, , , , , ,32766209,-248040,-161148,99,32763647,-118560,-155376,99
+3,1,motorola, Nexus 6, ZX1G222LJL,1.43028E+12,1.43028E+12,60000, Low_Latency, Low, , , , , ,32763638,-165672,-155532,99,32761044,-162240,-155532,99
+3,1,motorola, Nexus 6, ZX1G222LJL,1.43028E+12,1.43028E+12,60000, Low_Latency, Ultra_Low, , , , , ,32761044,-277992,-157404,99,32758397,-127920,-164580,99
+3,1,motorola, Nexus 6, ZX1G222LJL,1.43028E+12,1.43028E+12,60000, Low_Power, High, , , , , ,32758388,-189072,-164892,99,32755798,-149760,-153036,99
+3,1,motorola, Nexus 6, ZX1G222LJL,1.43028E+12,1.43028E+12,60000, Low_Power, Medium, , , , , ,32755791,-149760,-153036,99,32753211,-126048,-154128,99
+3,1,motorola, Nexus 6, ZX1G222LJL,1.43028E+12,1.43028E+12,60000, Low_Power, Low, , , , , ,32753211,-258648,-154128,99,32750624,-120432,-153504,99
+3,1,motorola, Nexus 6, ZX1G222LJL,1.43028E+12,1.43028E+12,60000, Low_Power, Ultra_Low, , , , , ,32750616,-177528,-153816,99,32748025,-151320,-153660,99

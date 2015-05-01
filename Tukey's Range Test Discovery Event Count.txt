@@ -1,0 +1,20 @@
+$Adv.Power
+                       diff        lwr       upr     p adj
+Low-High         -135.70691 -317.69514  46.28132 0.2191343
+Medium-High       -31.85382 -209.35215 145.64450 0.9668966
+Ultra_low-High   -266.68994 -467.50167 -65.87820 0.0038095
+Medium-Low        103.85309  -71.26739 278.97356 0.4195761
+Ultra_low-Low    -130.98302 -329.69608  67.73003 0.3239353
+Ultra_low-Medium -234.83611 -429.44550 -40.22672 0.0107247
+
+$Listener.Latency
+                           diff       lwr        upr     p adj
+Low_Latency-Balanced   299.9589  168.1823  431.73542 0.0000005
+Low_Power-Balanced    -228.5071 -358.9140  -98.10022 0.0001405
+Low_Power-Low_Latency -528.4660 -661.7920 -395.13992 0.0000000
+
+$Adv.Latency
+                           diff       lwr        upr     p adj
+Low_Latency-Balanced   395.4137  269.0998  521.72763 0.0000000
+Low_Power-Balanced    -165.6929 -294.9597  -36.42598 0.0077318
+Low_Power-Low_Latency -561.1066 -686.3988 -435.81438 0.0000000
